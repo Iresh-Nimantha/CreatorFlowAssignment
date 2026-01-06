@@ -6,6 +6,7 @@ CreatorFlow is a modern, responsive **task and content management dashboard** bu
 
 ***
 ![CreatorFlow Dashboard](http://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193430.png?token=GHSAT0AAAAAADJ4J4FYVNCMWT5CO5K6U3GK2K5DAKQ)
+![CreatorFlow Dashboard](https://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193410%20-%20Copy.png?token=GHSAT0AAAAAADJ4J4FZSG3M3AZHVEZIO5FQ2K5DB7A)
 
 ## 🚀 Features
 
