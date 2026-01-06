@@ -1,12 +1,25 @@
 ***
 
-# CreatorFlow - Professional Task & Content Management System
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/generated-image.png?token=GHSAT0AAAAAADJ4J4FY3OXZGGZBBNBGMFHI2K5DFGQ" alt="CreatorFlow Logo" width="160" />
+</p>
+
+<h1 align="center">CreatorFlow - Professional Task & Content Management System</h1>
 
 CreatorFlow is a modern, responsive **task and content management dashboard** built using **React**, **Tailwind CSS**, and a **Node.js/NestJS backend**. It enables creators and businesses to manage tasks efficiently, gain insights from analytics, and maintain a clean workflow through an elegant dashboard UI.
 
+
 ***
-![CreatorFlow Dashboard](http://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193430.png?token=GHSAT0AAAAAADJ4J4FYVNCMWT5CO5K6U3GK2K5DAKQ)
-![CreatorFlow Dashboard](https://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193410%20-%20Copy.png?token=GHSAT0AAAAAADJ4J4FZSG3M3AZHVEZIO5FQ2K5DB7A)
+<table>
+  <tr>
+    <td>
+      <img src="http://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193430.png?token=GHSAT0AAAAAADJ4J4FYVNCMWT5CO5K6U3GK2K5DAKQ" alt="CreatorFlow Dashboard 1" width="400" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193410%20-%20Copy.png?token=GHSAT0AAAAAADJ4J4FZSG3M3AZHVEZIO5FQ2K5DB7A" alt="CreatorFlow Dashboard 2" width="400" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Features
 
