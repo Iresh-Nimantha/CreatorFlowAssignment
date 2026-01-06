@@ -5,6 +5,7 @@
 CreatorFlow is a modern, responsive **task and content management dashboard** built using **React**, **Tailwind CSS**, and a **Node.js/NestJS backend**. It enables creators and businesses to manage tasks efficiently, gain insights from analytics, and maintain a clean workflow through an elegant dashboard UI.
 
 ***
+![CreatorFlow Dashboard](http://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193430.png?token=GHSAT0AAAAAADJ4J4FYVNCMWT5CO5K6U3GK2K5DAKQ)
 
 ## 🚀 Features
 
