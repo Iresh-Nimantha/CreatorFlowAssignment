@@ -13,10 +13,10 @@ CreatorFlow is a modern, responsive **task and content management dashboard** bu
 <table>
   <tr>
     <td>
-      <img src="http://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193430.png?token=GHSAT0AAAAAADJ4J4FYVNCMWT5CO5K6U3GK2K5DAKQ" alt="CreatorFlow Dashboard 1" width="400" />
+      <img src="https://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193410%20-%20Copy.png" alt="CreatorFlow Dashboard 1" width="400" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193410%20-%20Copy.png?token=GHSAT0AAAAAADJ4J4FZSG3M3AZHVEZIO5FQ2K5DB7A" alt="CreatorFlow Dashboard 2" width="400" />
+      <img src="https://raw.githubusercontent.com/Iresh-Nimantha/CreatorFlowAssignment/refs/heads/main/Screenshot%202026-01-06%20193430.png" alt="CreatorFlow Dashboard 2" width="400" />
     </td>
   </tr>
 </table>
