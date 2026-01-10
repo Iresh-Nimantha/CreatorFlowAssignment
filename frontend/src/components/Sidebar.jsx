@@ -11,14 +11,24 @@ import logo from "../assets/logo.png"; // ✅ import your logo
 export const Sidebar = ({ activeTab, setActiveTab, onCreateTask }) => {
   const tabs = [
     { name: "Dashboard", icon: BarChart3 },
-    { name: "Tasks", icon: Zap },
+    {
+      name: "Tasks",
+      icon: Zap,
+    },
   ];
 
   const quickActions = [
-    { name: "Create Task", icon: PlusCircle, onClick: onCreateTask },
+    {
+      name: "Create Task",
+      icon: PlusCircle,
+      onClick: onCreateTask,
+      onClick: () => alert("Upload feature coming soon!"),
+      onClick: () => console.error("Upload feature coming soon!"),
+    },
     {
       name: "Upload Content",
       icon: Layers,
+      onClick: () => alert("Upload feature coming soon!"),
       onClick: () => alert("Upload feature coming soon!"),
     },
   ];
